@@ -1,3 +1,5 @@
-# DistroDownloader
-DistroDownloader is a simple program that is extremely useful for users who often switch between different linux distribution. There is currently only fifteen main linux distributions supported although many more will be added. Using DistroDownloader is extremely easy. First select the number of the linux distribution you wish to download then enter your desired output file and lastly enter your desired file name.
-![alt text](https://github.com/Aaron-JM/DistroDownloader/blob/master/DistroDownloader.png)
+# CDistroDownloader
+CDistroDownloader is a simple program that is extremely useful for users who often switch between different Linux distributions.
+I give credit to Aaron-JM for creating the original Python version, This new version is written in C.
+
+The number of distros included was reduced to 5 GNU/Linux distros from the original's 15. I chose distros with complete installs and a good amount of support.
